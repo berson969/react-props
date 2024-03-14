@@ -1,0 +1,779 @@
+{
+  "docs": [
+    {
+      "rating": {
+        "kp": 6.15,
+        "imdb": 6,
+        "filmCritics": 5.4,
+        "russianFilmCritics": 55.5556,
+        "await": null
+      },
+      "votes": {
+        "kp": 219935,
+        "imdb": 188911,
+        "filmCritics": 299,
+        "russianFilmCritics": 9,
+        "await": 74872
+      },
+      "id": 8062,
+      "name": "Мортал Комбат",
+      "year": 2021,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4303601/f56710bd-85c3-49b8-9260-2fa8a3d07c01/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4303601/f56710bd-85c3-49b8-9260-2fa8a3d07c01/x1000"
+      },
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "фантастика"
+        }
+      ],
+      "budget": {
+        "value": 55000000,
+        "currency": "$"
+      },
+      "shortDescription": "Команда бойца Коул Янга готовится к схватке за Землю с Внешним миром. Экшен по видеоигре с новым протагонистом"
+    },
+    {
+      "rating": {
+        "kp": 6.473,
+        "imdb": 6.7,
+        "filmCritics": 6.3,
+        "russianFilmCritics": 42.8571,
+        "await": null
+      },
+      "votes": {
+        "kp": 52967,
+        "imdb": 204350,
+        "filmCritics": 387,
+        "russianFilmCritics": 7,
+        "await": 57998
+      },
+      "id": 195483,
+      "name": "Флэш",
+      "year": 2023,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4774061/f8bb36c1-e261-4293-b606-c5e57b562f7a/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4774061/f8bb36c1-e261-4293-b606-c5e57b562f7a/x1000"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "budget": {
+        "value": 200000000,
+        "currency": "$"
+      },
+      "shortDescription": null
+    },
+    {
+      "id": 198162,
+      "name": "10 трюков",
+      "rating": {
+        "kp": 0,
+        "imdb": 4,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 57,
+        "imdb": 130,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "year": 2022,
+      "budget": {
+        "value": 200000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1629390/15a14b5e-85f4-44a6-b603-25444b88372b/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1629390/15a14b5e-85f4-44a6-b603-25444b88372b/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "shortDescription": null
+    },
+    {
+      "rating": {
+        "kp": 0,
+        "imdb": 6,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 48,
+        "imdb": 49,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 52
+      },
+      "id": 260610,
+      "name": "Дуэль легенд",
+      "year": 2020,
+      "budget": {
+        "value": 7300000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1629390/41199bd5-f621-4956-a202-c1490da33af1/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1629390/41199bd5-f621-4956-a202-c1490da33af1/x1000"
+      },
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "спорт"
+        }
+      ],
+      "shortDescription": null
+    },
+    {
+      "id": 262876,
+      "name": "Перерождение Зорро",
+      "rating": {
+        "kp": 0,
+        "imdb": 7,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 92.67
+      },
+      "votes": {
+        "kp": 322,
+        "imdb": 41,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 1920
+      },
+      "year": 2021,
+      "budget": {
+        "value": 40000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1599028/41562010-3f9e-4af0-8c07-2eb57e926888/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1599028/41562010-3f9e-4af0-8c07-2eb57e926888/x1000"
+      },
+      "genres": [
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "shortDescription": null
+    },
+    {
+      "id": 271908,
+      "name": "Восставший из ада",
+      "rating": {
+        "kp": 5.643,
+        "imdb": 5.9,
+        "filmCritics": 6.2,
+        "russianFilmCritics": 40,
+        "await": null
+      },
+      "votes": {
+        "kp": 13660,
+        "imdb": 48182,
+        "filmCritics": 148,
+        "russianFilmCritics": 5,
+        "await": 6948
+      },
+      "year": 2022,
+      "budget": {
+        "value": 14000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4303601/80b325fe-4b2f-4fd6-af99-e0cfb38a08bd/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4303601/80b325fe-4b2f-4fd6-af99-e0cfb38a08bd/x1000"
+      },
+      "genres": [
+        {
+          "name": "ужасы"
+        }
+      ],
+      "shortDescription": null
+    },
+    {
+      "id": 316376,
+      "name": "На Западном фронте без перемен",
+      "rating": {
+        "kp": 7.59,
+        "imdb": 7.8,
+        "filmCritics": 8.2,
+        "russianFilmCritics": 80,
+        "await": null
+      },
+      "votes": {
+        "kp": 77334,
+        "imdb": 241131,
+        "filmCritics": 175,
+        "russianFilmCritics": 5,
+        "await": 11556
+      },
+      "year": 2022,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4303601/a56903f1-66bd-472d-bba0-05854afbfdae/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4303601/a56903f1-66bd-472d-bba0-05854afbfdae/x1000"
+      },
+      "genres": [
+        {
+          "name": "военный"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "история"
+        }
+      ],
+      "budget": {
+        "value": 0,
+        "currency": "$"
+      },
+      "shortDescription": null
+    },
+    {
+      "rating": {
+        "kp": 7.559,
+        "imdb": 7.7,
+        "filmCritics": 7.8,
+        "russianFilmCritics": 91.6667,
+        "await": null
+      },
+      "votes": {
+        "kp": 40746,
+        "imdb": 192113,
+        "filmCritics": 344,
+        "russianFilmCritics": 12,
+        "await": 2142
+      },
+      "id": 402981,
+      "name": "Суд над чикагской семеркой",
+      "year": 2020,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1600647/e748047d-f0aa-4052-bd02-4a6ae0ff6f7a/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1600647/e748047d-f0aa-4052-bd02-4a6ae0ff6f7a/x1000"
+      },
+      "genres": [
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "биография"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "история"
+        }
+      ],
+      "budget": {
+        "value": 35000000,
+        "currency": "$"
+      },
+      "shortDescription": null
+    },
+    {
+      "rating": {
+        "kp": 7.675,
+        "imdb": 8,
+        "filmCritics": 7.6,
+        "russianFilmCritics": 70.8333,
+        "await": null
+      },
+      "votes": {
+        "kp": 739293,
+        "imdb": 794291,
+        "filmCritics": 513,
+        "russianFilmCritics": 24,
+        "await": 89697
+      },
+      "id": 409424,
+      "name": "Дюна",
+      "year": 2021,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4303601/9eb762d6-4cdd-464f-9937-aebf30067acc/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4303601/9eb762d6-4cdd-464f-9937-aebf30067acc/x1000"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "budget": {
+        "value": 165000000,
+        "currency": "$"
+      },
+      "shortDescription": "Атрейдесы прибывают на планету, где им никто не рад. Фантастический эпос Дени Вильнёва с шестью «Оскарами»"
+    },
+    {
+      "id": 415096,
+      "name": "1066",
+      "rating": {
+        "kp": 0,
+        "imdb": 7.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 88.43
+      },
+      "votes": {
+        "kp": 3736,
+        "imdb": 47,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 714
+      },
+      "year": 2023,
+      "budget": {
+        "value": 50000000,
+        "currency": "£"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1599028/0121d382-462a-453f-b970-d01dd81baca0/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1599028/0121d382-462a-453f-b970-d01dd81baca0/x1000"
+      },
+      "genres": [
+        {
+          "name": "история"
+        }
+      ],
+      "shortDescription": null
+    },
+    {
+      "rating": {
+        "kp": 6.419,
+        "imdb": 7.1,
+        "filmCritics": 7.7,
+        "russianFilmCritics": 30.7692,
+        "await": null
+      },
+      "votes": {
+        "kp": 103975,
+        "imdb": 252864,
+        "filmCritics": 424,
+        "russianFilmCritics": 13,
+        "await": 11712
+      },
+      "id": 420454,
+      "name": "Человек-невидимка",
+      "year": 2020,
+      "budget": {
+        "value": 7000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1900788/a90dd0dd-a8ae-4112-9865-23eb8f5879a8/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1900788/a90dd0dd-a8ae-4112-9865-23eb8f5879a8/x1000"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "детектив"
+        }
+      ],
+      "shortDescription": "Сесилия уверена, что ее преследует погибший бойфренд-тиран. Злободневное прочтение шедевра Герберта Уэллса"
+    },
+    {
+      "id": 428683,
+      "name": "Армия мертвецов",
+      "rating": {
+        "kp": 5.892,
+        "imdb": 5.8,
+        "filmCritics": 6.1,
+        "russianFilmCritics": 46.6667,
+        "await": null
+      },
+      "votes": {
+        "kp": 57275,
+        "imdb": 186490,
+        "filmCritics": 290,
+        "russianFilmCritics": 15,
+        "await": 10983
+      },
+      "year": 2021,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4774061/931b0013-5186-4bf4-825f-3418752a65c2/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4774061/931b0013-5186-4bf4-825f-3418752a65c2/x1000"
+      },
+      "genres": [
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "боевик"
+        }
+      ],
+      "budget": {
+        "value": 90000000,
+        "currency": "$"
+      },
+      "shortDescription": null
+    },
+    {
+      "id": 441406,
+      "name": "Ворон",
+      "year": 2024,
+      "shortDescription": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 93.29
+      },
+      "votes": {
+        "kp": 81,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 14747
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1900788/e4e9c937-2ae6-42eb-ae11-704092468aa3/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1900788/e4e9c937-2ae6-42eb-ae11-704092468aa3/x1000"
+      },
+      "genres": [
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "budget": {
+        "value": 40000000,
+        "currency": "$"
+      }
+    },
+    {
+      "rating": {
+        "kp": 6.838,
+        "imdb": 6.6,
+        "filmCritics": 6,
+        "russianFilmCritics": 63.6364,
+        "await": null
+      },
+      "votes": {
+        "kp": 301048,
+        "imdb": 210977,
+        "filmCritics": 347,
+        "russianFilmCritics": 11,
+        "await": 10975
+      },
+      "id": 462059,
+      "name": "Круиз по джунглям",
+      "year": 2021,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1898899/8c65d6b2-4554-4d86-b70a-c046af13a1a0/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1898899/8c65d6b2-4554-4d86-b70a-c046af13a1a0/x1000"
+      },
+      "genres": [
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "фэнтези"
+        }
+      ],
+      "budget": {
+        "value": 200000000,
+        "currency": "$"
+      },
+      "shortDescription": "Археолог Лили отправляется в дебри Амазонки на поиски редкого артефакта. Комедийный квест с Эмили Блант"
+    },
+    {
+      "id": 462128,
+      "name": "Последнее путешествие «Деметра»",
+      "rating": {
+        "kp": 5.783,
+        "imdb": 6.1,
+        "filmCritics": 5.6,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 18355,
+        "imdb": 45416,
+        "filmCritics": 192,
+        "russianFilmCritics": 3,
+        "await": 8041
+      },
+      "year": 2023,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10893610/a0f05551-ecfa-409c-971a-b490b738f6c0/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10893610/a0f05551-ecfa-409c-971a-b490b738f6c0/x1000"
+      },
+      "genres": [
+        {
+          "name": "ужасы"
+        }
+      ],
+      "budget": {
+        "value": 45000000,
+        "currency": "$"
+      },
+      "shortDescription": null
+    },
+    {
+      "rating": {
+        "kp": 5.768,
+        "imdb": 4.9,
+        "filmCritics": 3.4,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 147246,
+        "imdb": 57524,
+        "filmCritics": 113,
+        "russianFilmCritics": 1,
+        "await": 1860
+      },
+      "id": 462193,
+      "name": "Остров фантазий",
+      "year": 2020,
+      "budget": {
+        "value": 7000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4303601/33bc2aab-48c7-4398-8aaf-9abaed571dac/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4303601/33bc2aab-48c7-4398-8aaf-9abaed571dac/x1000"
+      },
+      "genres": [
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "фантастика"
+        }
+      ],
+      "shortDescription": "Райский остров превращает тайные желания своих гостей в кошмары. Безжалостный триллер от продюсера «Прочь»"
+    },
+    {
+      "id": 464302,
+      "name": "На высоте мечты",
+      "rating": {
+        "kp": 6.791,
+        "imdb": 7.3,
+        "filmCritics": 8.2,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 2456,
+        "imdb": 51740,
+        "filmCritics": 369,
+        "russianFilmCritics": 2,
+        "await": 747
+      },
+      "year": 2021,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1898899/2589b98c-1831-4df9-810c-5e75ad0d953d/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1898899/2589b98c-1831-4df9-810c-5e75ad0d953d/x1000"
+      },
+      "genres": [
+        {
+          "name": "мюзикл"
+        },
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "драма"
+        }
+      ],
+      "budget": {
+        "value": 55000000,
+        "currency": "$"
+      },
+      "shortDescription": "Латиноамериканцы в Нью-Йорке отстаивают свои права и мечты. Ослепительный мюзикл, дающий энергию и надежду"
+    },
+    {
+      "id": 467095,
+      "name": "День благодарения",
+      "rating": {
+        "kp": 6.079,
+        "imdb": 6.3,
+        "filmCritics": 6.8,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 7059,
+        "imdb": 42011,
+        "filmCritics": 149,
+        "russianFilmCritics": 1,
+        "await": 680
+      },
+      "year": 2023,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4486454/372933a6-a98e-436a-a194-b502e3e58f6f/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486454/372933a6-a98e-436a-a194-b502e3e58f6f/x1000"
+      },
+      "genres": [
+        {
+          "name": "ужасы"
+        }
+      ],
+      "shortDescription": "Неизвестный в маске мстит участникам погрома в супермаркете. Патрик Демпси в слэшере от авторов «Грайндхауса»",
+      "budget": {
+        "value": 15000000,
+        "currency": "$"
+      }
+    },
+    {
+      "rating": {
+        "kp": 6.798,
+        "imdb": 6.3,
+        "filmCritics": 5.2,
+        "russianFilmCritics": 72.7273,
+        "await": null
+      },
+      "votes": {
+        "kp": 221082,
+        "imdb": 255025,
+        "filmCritics": 264,
+        "russianFilmCritics": 11,
+        "await": 44953
+      },
+      "id": 468373,
+      "name": "Анчартед: На картах не значится",
+      "year": 2022,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1629390/25aeafca-e8b6-4ca8-a2a2-7e7dae6200bb/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1629390/25aeafca-e8b6-4ca8-a2a2-7e7dae6200bb/x1000"
+      },
+      "genres": [
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "боевик"
+        }
+      ],
+      "shortDescription": "Отчаянные авантюристы ищут золото Магеллана. Том Холланд и Марк Уолберг в блокбастере по культовой видеоигре",
+      "budget": {
+        "value": 120000000,
+        "currency": "$"
+      }
+    },
+    {
+      "rating": {
+        "kp": 6.744,
+        "imdb": 5.3,
+        "filmCritics": 4.7,
+        "russianFilmCritics": 30,
+        "await": null
+      },
+      "votes": {
+        "kp": 243132,
+        "imdb": 39559,
+        "filmCritics": 130,
+        "russianFilmCritics": 10,
+        "await": 6215
+      },
+      "id": 468562,
+      "name": "Том и Джерри",
+      "year": 2021,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4303601/e5ab661c-c972-4046-86bb-1470e4bd6f1e/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4303601/e5ab661c-c972-4046-86bb-1470e4bd6f1e/x1000"
+      },
+      "genres": [
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "budget": {
+        "value": 50000000,
+        "currency": "$"
+      },
+      "shortDescription": "Кот и мышонок громят отель, ставя под угрозу свадьбу века. Хлоя Грейс Морец в полном метре о заклятых друзьях"
+    }
+  ],
+  "total": 760,
+  "limit": 20,
+  "page": 1,
+  "pages": 38
+}
